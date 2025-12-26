@@ -1,4 +1,5 @@
 📊 Student Semester Attendance vs Performance Analysis
+
 📌 Project Description
 
 This project analyzes the relationship between student attendance and exam performance using simulated data.
